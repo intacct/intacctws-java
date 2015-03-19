@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" author="true" classpath="C:\Tools\eclipse-java-luna-SR1a-win32-x86_64\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;C:\Tools\eclipse-java-luna-SR1a-win32-x86_64\eclipse\plugins\org.junit_4.11.0.v201303080030\junit.jar" destdir="doc" doctitle="Intacct Java SDK Toolkit" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="com.intacct.ws.exception,org.json,com.intacct.ws,org.json.zip,test,com.intacct.ws.util" source="1.7" sourcepath="src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
