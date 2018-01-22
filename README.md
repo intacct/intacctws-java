@@ -1,2 +1,1 @@
-# intaccws-java
-Java SDK adaptor for Intacct WS platform services
+# This repository is no longer maintained.
